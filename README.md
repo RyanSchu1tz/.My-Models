@@ -1,1 +1,3 @@
 # .My Models
+# gitignore
+*.spp
